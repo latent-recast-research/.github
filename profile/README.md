@@ -1,4 +1,4 @@
-# Latent Recast Research
+**Latent Recast Research**
 
 *AI for Molecular Discovery & Patent Intelligence*
 
